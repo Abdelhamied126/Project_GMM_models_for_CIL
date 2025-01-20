@@ -45,3 +45,5 @@ Ce projet explore une approche innovante pour l’**apprentissage incrémental p
 - **Santé** :
   - Classification d’images médicales avec ajout progressif de nouvelles pathologies.
 
+#### Pour plus de détails consulter Projet_3A.PDF
+
