@@ -30,14 +30,12 @@ Ce projet explore une approche innovante pour l’**apprentissage incrémental p
 - **Efficacité computationnelle** : seul le module de projection est optimisé.
 
 ## Résultats
+![image](https://github.com/user-attachments/assets/f8e76c4c-28ae-4e92-93dc-075347c9df37)
 
-- **Tiny-ImageNet** :
-  - Précision moyenne : **83,95 %** sur 20 tâches.
-- **ImageNet-R** :
-  - Précision moyenne : **89,41 %**.
 
-Ces performances surpassent celles des méthodes traditionnelles comme iCaRL et EWC, démontrant l'efficacité des modèles génératifs.
-
+- **ImgR-alin** :
+  - Précision moyenne : **93.38 %** sur 8 tâches.
+    
 ## Applications
 
 - **Systèmes embarqués** :
