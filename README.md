@@ -47,5 +47,7 @@ Ce projet explore une approche innovante pour l’**apprentissage incrémental p
 
 #### Pour plus de détails consulter : 
 `[Projet_3A.pdf](./Projet_3A.pdf)`
+#### Pour plus de détails consulter :  
+[Projet_3A.pdf](./Projet_3A.pdf)
 
 
